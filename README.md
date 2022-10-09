@@ -7,7 +7,6 @@
   - [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites) 
     * [Installing](#installing) 
-  - [Contributing](#contributing)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgements](#acknowledgements)
@@ -91,15 +90,6 @@ This project uses Yarn as package manager
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-
-
-## Contributing
-보통 여러분의 프로젝트에 다른 사람이 Contribute 하기 위해 알아야할 pull requests 방법, Code of conduct(코딩 규칙) 등을 서술합니다.
-필요없다면 제거해도 좋습니다.
-
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 | Name    | 전준형                                        |김민지                               | 김성윤                                        | 김정원                                    | 전경희                               |
